@@ -1,7 +1,7 @@
 ## Hi, I'm Ahmed Mohamed  
 
 </p>
-<img src="https://github.com/Ahmed27Mohamed27/Ahmed-Mohamed/blob/main/Ahmed.png" alt="Ahmed27Mohamed27/AhmedMohamed/Ahmed" width="1490"/>
+<img src="https://github.com/Ahmed27Mohamed27/Ahmed27Mohamed27/blob/main/Ahmed.png" alt="Ahmed27Mohamed27/Ahmed27Mohamed27/Ahmed" width="1490"/>
 
 <br/>  
 <br/> 
